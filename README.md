@@ -9,7 +9,7 @@ This project analyzes agriculture production data using AWS,Snowflake and power 
  - State-wise agriculture performance
  - Yearly production trends
  - Interactive Power BI dashboard for better insights
-#### Outcome
+### Outcome
 The dashboard helps to easily understand agriculture perfotmance and identify trends in crop production using data visualisation
-##### Dashboard preview
+### Dashboard preview
 <img width="1344" height="757" alt="agriculture" src="https://github.com/user-attachments/assets/05b47862-5a25-4586-ac8f-7a5c481fba5b" />

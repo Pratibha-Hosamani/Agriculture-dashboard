@@ -45,5 +45,6 @@
    planning and decision making.
 
 ### Dashboard preview
-<img width="1335" height="764" alt="agriculture" src="https://github.com/user-attachments/assets/c7a02346-387d-474d-8d50-5a2df3d12cf2" />
+<img width="1335" height="764" alt="agriculture" src="https://github.com/user-attachments/assets/62dec2da-d273-458d-82ff-6adf6adb6658" />
+
 
